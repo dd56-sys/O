@@ -1,7 +1,5 @@
-   ```json
-   {
+{
      "version": "1.0.11",
      "url": "https://github.com/dd56-sys/O/releases/download/v1.0.11/RentalOrderApp_Setup.exe",
      "notes": "1. 修正租借單號顯示問題\n2. 新增業務二回報紀錄篩選功能"
-   }
-   ```
+}
