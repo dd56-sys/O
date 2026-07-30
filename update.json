@@ -1,5 +1,5 @@
 {
-     "version": "1.0.21",
-     "url": "https://github.com/dd56-sys/O/releases/download/v1.0.21/RentalOrderApp_Setup.exe",
-     "notes": "1. 更新驗證程序"
+     "version": "1.0.22",
+     "url": "https://github.com/dd56-sys/O/releases/download/v1.0.22/RentalOrderApp_Setup.exe",
+     "notes": "1. 業務二回報紀錄新增是否提貨\n2. 租借管理新增取件日待定\n3. 訂單管理新增前5日檢查\n4. 新增資料表格水平捲軸，小螢幕也能看到所有欄位\n5. 備註欄位新增「點我展開」按鈕\n6. 控場表累計當月統計人數\n7. 首頁新增控場表統計人數\n8. 控場表日期不能重複"
 }
