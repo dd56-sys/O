@@ -1,5 +1,5 @@
 {
-     "version": "1.0.26",
-     "url": "https://github.com/dd56-sys/O/releases/download/v1.0.26/RentalOrderApp_Setup.exe",
-     "notes": "1. 業務二新增尚未提貨頁籤\n2. 租借管理明日取件按鈕直接改成頁籤\n3. 首頁明日取件跟業務二尚未提貨點擊後，都會直接跑到該頁籤裡面\n4. 未來三天內歸還橫幅提示取消\n5. 按關閉程式按鈕可以選擇關閉程式或是縮到最小\n6. 修正租借修改取件日，明日取件已打勾未歸位BUG"
+     "version": "1.0.27",
+     "url": "https://github.com/dd56-sys/O/releases/download/v1.0.27/RentalOrderApp_Setup.exe",
+     "notes": "1. 調整選擇專員時按紐方便點選\n2. 修正取件日待定時，可以輸入日期之錯誤\n3. 建檔日及取件日改成不能手動輸入，點擊灰框可跑出\n4. 按住 Ctrl 點選多筆資料"
 }
